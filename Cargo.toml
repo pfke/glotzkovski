@@ -5,3 +5,5 @@ authors = ["Heiko Blobner <heiko.blobner@posteo.de>"]
 edition = "2018"
 
 [dependencies]
+rust-embed="4.3.0"
+sciter-rs = "0.5.45"
